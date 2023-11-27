@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 Clone the Repository:
 
-- git clone https://github.com/ajauni01/ema-john-e-commerce-website.git
+- git clone https://github.com/ajauni01/e-commerce-website.git
 Install the necessary dependencies:
 
 - npm install
