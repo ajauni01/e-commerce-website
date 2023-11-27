@@ -28,10 +28,11 @@ To run this project locally, follow these steps:
 Clone the Repository:
 
 - git clone https://github.com/ajauni01/e-commerce-website.git
-Install the necessary dependencies:
+  
+## Install the necessary dependencies:
+npm install
 
-- npm install
-Start the development server:
+## Start the development server:
 
 - npm run dev
 - Open your browser and visit http://localhost:3000 to see the website in action.
