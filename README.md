@@ -1,8 +1,7 @@
 # Ema John E-commerce Website
 Welcome to the Ema John E-commerce website! This website is designed to showcase a wide range of products and enable users to make online purchases. Please note that the login, authentication, and payment integration features are currently being developed and will be added soon. Additionally, an admin page will also be added in the near future.
 
-## Live Site
-You can access the live site by visiting: https://e-commerce-website-dusky-seven.vercel.app/
+[Explore the live demo](https://e-commerce-website-dusky-seven.vercel.app/)
 
 ## Overview
 The Ema John E-commerce website is a platform that allows users to browse and purchase various products. It provides a user-friendly interface and a seamless shopping experience. With upcoming features such as login, authentication, payment integration, and an admin page, the website aims to enhance the overall functionality and convenience for both customers and administrators.
